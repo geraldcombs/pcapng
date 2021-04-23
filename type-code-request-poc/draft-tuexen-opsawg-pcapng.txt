@@ -2365,7 +2365,7 @@ Table of Contents
    All the remaining Block Type codes (0x00000000 to 0x7FFFFFFF) are
    standardized by this document.  Requests for new Block Type codes,
    Option Type codes, and Secrets Type codes should be made by creating
-   a pull request to update this document at gitlab.com/pcapng/pcapng
+   a pull request to update this document at github.com/pcapng/pcapng
    (https://github.com/pcapng/pcapng).  The pull request should add a
    description of the new block, option, or secret type to Section 4.
    The pull request description should contain a clear request for a new
